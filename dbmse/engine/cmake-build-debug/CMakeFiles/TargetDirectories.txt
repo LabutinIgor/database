@@ -1,0 +1,3 @@
+/Users/igorl/Documents/au/db2/hw/ToyDBMS/dbmse/engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/igorl/Documents/au/db2/hw/ToyDBMS/dbmse/engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/igorl/Documents/au/db2/hw/ToyDBMS/dbmse/engine/cmake-build-debug/CMakeFiles/engine.dir
